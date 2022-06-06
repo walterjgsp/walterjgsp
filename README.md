@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Walter and I'm currently working as Tech Lead at BrightInsight. 
+My name is Walter and I'm currently working as Software Engineer at Google. 
 
 ## Github Stats
 
